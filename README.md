@@ -1,4 +1,6 @@
-Hi, I'm Danny, a super-stack developer at the intersection of <strong>blockchain, finance, research and deep learning</strong> with a <strong>Ph.D. from Harvard University</strong>. 
+<h3 align="center">Hi, I'm Danny!</h3>
+<p align="center">A super-stack developer at the intersection of <strong>blockchain, finance, research and deep learning</strong> <br/> with a <strong>Ph.D. from Harvard University</strong>.</p>
+
 
 #### 🔥 NOW 
 

@@ -17,8 +17,9 @@ Hi, I'm Danny, a super-stack developer at the intersection of <strong>blockchain
 
 #### 🦄 MORE ABOUT ME
 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I broke the world record in thin film solar cell performance during my Ph.D. research;
+- 💬 Ask me about anything, I am happy to help
+- 💡 Collaborators: MIT, IBM, NREL, U.S. Department of Energy
+- ⚡️ Fun-Fact: I broke the world record in thin film solar cell performance during my Ph.D. research
 
 <!--
 **dannychua/dannychua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

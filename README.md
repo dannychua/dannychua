@@ -23,7 +23,7 @@
 - 💡 Collaborators: MIT, IBM, NREL, U.S. Department of Energy
 - ⚡️ Fun-Fact: I broke the world record in thin film solar cell performance during my Ph.D. research
 
-![](https://hit.yhype.halp.im/github/profile?user_id=1836449)
+![](https://hit.yhype.me/github/profile?user_id=1836449)
 
 <!--
 **dannychua/dannychua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
